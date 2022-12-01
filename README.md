@@ -88,6 +88,16 @@
       height="50"
     />
   </a>
+  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/365230?s=200&v=4"
+      alt="datadog"
+      width="50"
+      height="50"
+    />
+  </a>
+  </p>
+  <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -149,14 +159,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis"
       width="60"
-      height="50"
-    />
-  </a>
-  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/365230?s=200&v=4"
-      alt="datadog"
-      width="50"
       height="50"
     />
   </a>
