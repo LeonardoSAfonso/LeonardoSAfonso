@@ -2,9 +2,9 @@
 
 - :telescope: I’m working as backend developer for building web applications.
 
-- :bug: Solving little, and big, bugs every day 
+- :bug: Solving little and big bugs every day
 
-- :zap: Working with passion and a lot of daddy's jokes.
+- :zap: Working with passion and lots of dad jokes.
 
 #
 
