@@ -9,8 +9,8 @@
 #
 
 
-| <img height="176" src="https://github-readme-stats.vercel.app/api?username=LeonardoSAfonso&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> | <img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSAfonso&layout=compact&langs_count=16&theme=react"/>
-| - | - |
+<img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSAfonso&layout=compact&langs_count=16&theme=react"/>
+
 
 
 #### Languages and Tools:
